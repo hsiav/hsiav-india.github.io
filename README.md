@@ -100,29 +100,7 @@ Below is the aggregated speed performance chart, showing the average download an
 
 
 最近更新：`2024年12月25号`
-<!-- 
->**在当前的环境下，能在国内长期稳定并有效使用的VPN服务已经变得相对稀缺。许多VPN评论网站往往互相抄袭，发布的内容很多都已经失去了时效性。有一部分推荐的VPN在国内的实际效果并不理想，令人遗憾的是，很多的评论者身处国外，他们并无法提供在国内使用VPN的真实体验。特别是在过去的两年中，由于"防火长城"的严密封锁，许多过去可用的VPN现在已经变得几乎无法使用。因此，在阅读本文的同时，我建议大家需要谨慎理解并避免进入"坑"。本文将根据实际的使用经验介绍各种VPN软件的最新使用情况，并将持续更新最新的使用情况，以供大家参考和避坑。本文是关于中国安全翻牆策略的详细版本，讨论了翻牆软件、科学上网以及网络安全等相关问题。如果你只希望快速选择一款科学上网软件来翻牆，那麽可以直接查看本文下方的目录导航。
 
-翻牆（科学上网）的重要性，我想大家心里都有数。否则，你现在也不会在这里阅读这篇文章。如果不能翻牆，就不能使用Google搜寻编程代码，不能回复Gmail邮件，也无法观看YouTube的视频。那些在Udemy购买的课程，你能够舒适地观看吗？你能否追踪HBO和Netflix的剧集？由于工作出差和生活学习的需要，我经常需要在不同的地区使用科学上网。基于我的个人使用感受以及对VPN软件这个行业的理解，我将为读者推荐在国内最好用、最稳定和最安全的科学上网方法和工具。我也将长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻牆和信息安全技术。
-
->**据中央社引述中国官方消息报道，中国上网人数突破9亿，网购用户超过7亿，可见大家对上网的需求日益增加, 有鉴于网路上许多博主到处乱推荐VPN，都推荐一堆不能用的，不能用的就算了，还要骗大家去买来拿钱，这类博客有个特点，就是喜欢自己架一个网站，写一堆话来骗大家，近几年来，防火墙更新越来越强大，过去许多VPN已经完全不能使用。为了让大家能够持续的有知的自由，再加上太多网站喜欢说不实的讯息，我决定在github上建造一个网页，作为自由博客，帮助大家避坑，不要再浪费时间在那些危险的VPN或是不能用的VPN上。本文会介绍细节，讲一些技术，只想看翻墙科学软件推荐的朋友(如果只想快速选个科学上网软件来翻墙)，可以直接看我的推荐栏位。
-
-多年中美工作经验告诉我，翻墙几乎是现代人必备的一个技能，由于言论审查，只要翻不了墙就不能Google学新的东西，不翻墙就不能看YouTube视频，用facebook，line和外国朋友联络，Coursera和Udemy等线上课程都不能好好观看。HBO、Netflix等影视娱乐也必须要翻墙才能观看，BBC,CNN等国际新闻也都必须要借由翻墙才观看。我本人由于跨国工作，经常要在不同地区使用科学上网，我本人自己也是网路程序员，博士是研究机器学习，也研究过网路相关问题，我将会在下面详细介绍VPN、SSR、WireGuard、V2Ray、Trojan等翻墙和信息安全技术和基本加密技术，我也将就自己的使用感受和对翻墙软件的了解，自己进行数值实验和速度测试，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具。
-
-## 最新本月翻墙新闻更新
-微软在2024年6月发布的最新安全更新可能导致Windows用户的VPN连接出现问题。受影响的操作系统包括Windows 11、Windows 10以及Windows Server 2008及以上版本。部分用户在Reddit上反映更新后无法连接VPN，尽管有些用户通过重新安装VPN应用暂时解决了问题。微软已确认此问题，并表示将在未来的更新中修复。这一情况与微软CEO Satya Nadella强调的安全优先的立场形成了对比。
-<a rel="nofollow noopener" href="https://tw.news.yahoo.com/microsofts-latest-windows-security-updates-might-break-your-vpn-001216447.html" target="_blank">完整内容可以在原文链接查看</a>
-
-
-
-## 翻牆近况更新
-**从2021年的圣诞季节到2023年五月的春末，这一段缤纷却又多事的时光，我们在VPN的世界里看到了许多变化。**那些曾经的大腕如Ivacy、VyprVPN、和蓝灯，在中国的市场里屡遭挫折，似乎正如那浓烈的火锅汤底对于胃的挑战一样，它们的伺服器经常遭受封锁。特别是蓝灯，其安全性就像那灯下的虫子，暴露在我们的目光之下。在此，我们要对所有的用户喊话，请注意躲避这些隐患。那些曾经坚固的城堡如NordVPN，在这场风暴中也是被重点打击，现在可以说是倒下的巨人，它的表现就像一个突然失去了方向的孩子，常常需要手动配置。那个我们曾经称之为“小明星”的PIA，在这场狂风中失去了光芒，被封锁后一直无法有后续的有效反击，目前在国内还是无法连接，请大家谨慎选择。
-
-神秘的PandaVPN就像是一个离家出走的孩子，从11月的深秋开始，就像那渐渐落叶的树一样，官网无法访问，线路无法连接，即使呼喊，也无人回应，我们怀疑他可能已经选择了别的路，去寻找自己的世界，选择了卷款跑路。很多专为国人服务的翻牆软件都在走这条路，大家需要提高警惕，毕竟，世界是美好的，也是充满了挑战。
-
-然而，就像那永不消逝的北斗星，**只有ExpressVPN和StrongVPN在过去几年的表现一直保持着稳定，就如同坐在海边听着浪潮的声音一样令人放心。ExpressVPN像是我们的瑞士刀，适用于所有平台，使用体验就像是骑在风中自由的马上，即使遭遇到封锁，它也能在一周内恢復，只要更新了程序，就像是喝了神奇药剂一样，官方推荐的线路就能恢復正常连接。StrongVPN则是我们的轻装步兵，价格相对便宜，拥有通用版客户端和特供的简化版客户端可供使用，无论是Windows、Mac还是安卓手机端，都能适应。**它们的伺服器线路就像是快速的马车，不时会更新，过去的两年里被封锁的次数也相对较少。但是如果你是iPhone的用户，使用StrongVPN可能需要像是打开一道神秘的门一样，联繫客服手动配置翻牆。而在这种敏感的时期，如果遇到连接问题，你可能需要像是找到藏宝图一样，联繫客服提供国内可用线路或备用线路。
-
-本站包含许多翻牆VPN等各种资料跟速度测试还有常见问题，建议大家直接底下内容导航点及自己想要参考的段落。 -->
 
 > ## 本文内容导航
 > ### 1. [科学上网基本知识](#科学上网基本知识)
@@ -1366,18 +1344,29 @@ Expressvpn 底下我用mac当作教学。 先到<a href="https://www.expressvpn.
 <img src="./image/surfshark/7.PNG" alt="drawing" width="1000"/>
 
 
-## flowvpn 的安装教学
+## FlowVPN Installation Guide
 
-### 现在来解释如何下载并使用FlowVPN。按照上述方法付完钱以後
-选择你的对应设备: 有iOS, linux, windows, mac, 或android，这裡用windows系统当作教学。关于其他设备，可以参考我的其他文章。
-<img src="./image/flowvpn/5.PNG" alt="drawing" width="1000"/>
+### Step-by-Step Guide to Download and Use FlowVPN
 
-### 下載完軟體以後，點擊安裝，安裝完畢即可
+After successfully purchasing your FlowVPN subscription, follow these steps to install and use it. This guide will use Windows as an example. For other devices such as iOS, Linux, Mac, or Android, please refer to my other articles.
 
-### 点选连线(connect)，下方选单可以选取连线国家。参考下方图片，连线上以后，windows电脑会出现flowvpn已经connected。
-可以選擇國家
+### Step 1: Select Your Device and Download the Software
+Visit the FlowVPN website and download the application for your corresponding device. Options include iOS, Linux, Windows, Mac, or Android. For this guide, we'll use Windows as the example.
 
-<img src="./image/flowvpn/6.PNG" alt="drawing" width="1000"/>
+![Device Selection](./image/flowvpn/5.PNG)
+
+### Step 2: Install the Software
+After downloading the software, double-click the installation file and follow the on-screen instructions to complete the installation.
+
+### Step 3: Connect to FlowVPN
+1. Open the FlowVPN application.
+2. Click **Connect** to start the VPN connection. 
+3. Use the drop-down menu to select your preferred connection country. 
+4. Once connected, your Windows system will display a notification indicating that FlowVPN is successfully connected.
+
+![VPN Connection](./image/flowvpn/6.PNG)
+
+With FlowVPN successfully installed and running, you can now enjoy a secure and private internet connection while accessing content from around the world!
 
 
 ## What Can You Do with a VPN in India?
@@ -1556,98 +1545,82 @@ Self-hosted VPNs often suffer from stability and speed challenges. You need to c
 As internet usage grows, self-hosted VPNs may struggle to meet increasing demands. Expanding server capabilities, upgrading hardware, or optimizing performance requires both expertise and additional investment.
 
 
-## 你必须知道的VPN的核心知识
-<a name="你必须知道的VPN的核心知识"></a>
+### Core Knowledge You Must Know About VPNs
+<a name="core-vpn-knowledge"></a>
 
-#### VPN的基本原理是什么？
+#### What is the Basic Principle of a VPN?
 
-VPN是英文Virtual Private Network的缩写，VPN 的一个关键部分是加密。数学上非常复杂，你只要知道加密会扰乱您的数据，您只能使用正确的密钥对其进行解密。
-您的所有数据在进入互联网之前都会通过某些加密隧道，这样其他人无法看到这些数据。这允许您隐藏连接到网站时浏览器自动发送的元数据。浏览器携带大量数据，包括您的时区、内容语言、操作系统，甚至您的屏幕分辨率。尽管这些数据都不能直接识别您的身份，但整个集合可能对您来说是独一无二的，某些人可用于通过称为浏览器指纹识别的过程来识别您。政府机构、广告商和黑客可以利用这些信息来对付您。所以这就是你为何需要VPN
+A Virtual Private Network (VPN) encrypts your data through complex mathematical algorithms, creating a secure "tunnel" between your device and the internet. This ensures that others cannot view your data. VPNs hide metadata sent by your browser, such as time zone, operating system, and even screen resolution. While this data might not directly identify you, it can uniquely fingerprint your activity, which governments, advertisers, and hackers might exploit. This is why a VPN is essential for privacy and security.
 
-#### 什么是中国防火长城？
+#### What is the Great Firewall of China?
 
-与其他国家采用的法规相比，中国以严格的互联网信息控制政策着称。这个工程通常被称为“中国的巨大防火墙”(great firewall)，是由中国政府公安部管理的一项倡议。顾名思义，这个项目的重点是监控和审查通过中国在线网络可以看到和不能看到的内容。该项目始于1998年，至今仍在通过多种方法不断改进限制技术。OpenNet Initiative 进行了一项实证研究，得出的结论是，中国拥有“世界上最复杂的内容过滤互联网制度”。使用的一些技术方法是 IP 阻塞，即拒绝特定域的 IP 地址。为了了解该政策的严格程度 包含了美国最受欢迎的网站列表 [实证研究](https://www.example.com/my%20great%20page)。谷歌、Facebook、雅虎位列前三；在这前三名中，没有一个是在中国被允许的。这是可以预料的，因为可以通过这些社交领域快速传播信息。网站让用户可以看到他们输入的域名在中国是否被屏蔽，是展示中国广泛使用的过滤的便捷工具。
+China's "Great Firewall" is a comprehensive censorship system managed by the Ministry of Public Security. It monitors and restricts internet content that can be accessed within the country. Started in 1998, it employs techniques like IP blocking and URL filtering. For instance, platforms like Google, Facebook, and Twitter are blocked in China to prevent the rapid dissemination of information. This stringent censorship highlights the need for tools like VPNs to access restricted content.
 
-#### VPN可以做什么？
+#### What Can a VPN Do?
 
-通过以上对VPN的原理和防火长城的原理，有了一定了解之后，就会明白VPN可以做很多事情，那是因为它会改变你的IP地址。每台计算机在连接到互联网时都有一个唯一的 IP 地址，这会告诉其他计算机您在世界上的哪个位置。使用 VPN，您可以在访问 Internet 之前连接到另一台计算机（服务器），从而有效地告诉其他计算机您在不同的位置。对于大多数 VPN 服务，您实际上可以自己选择这个伪造的位置。
+VPNs can mask your IP address, making it appear as though you're browsing from a different location. This opens up possibilities such as:
 
-有了新的 IP 地址，就有很多可能性。例如，Netflix 等流媒体平台针对世界不同地区提供不同的内容。VPN 会改变您的IP位置，允许您访问其他国家的流媒体库。
+- **Unlocking Streaming Platforms**: Access content libraries from different countries on platforms like Netflix.
+- **Bypassing Censorship**: Overcome geographic restrictions imposed by governments.
+- **Stopping Online Tracking**: Encrypt data to prevent ISPs and websites from tracking your location and metadata.
+- **Accessing Private Networks**: Safely connect to private networks remotely, ensuring a barrier between public and private data.
 
-在极端情况下，VPN 有助于绕过部分网路审查。世界各地的一些政府机构使用地理封锁，这是一种基于您的 IP 地址对内容进行区域锁定以阻止网站和服务的技术。VPN 通过更改您的 IP 地址并让您看起来像是从不同位置连接到互联网来解决这个问题。
+#### Is a VPN Effective?
 
-另一方面，VPN 消除了个人上网的责任，因此有些人将它们用于（也称为点对点文件共享）受版权保护的内容和从事其他在线非法活动。
+A reputable paid VPN service like ExpressVPN or StrongVPN is highly effective. However, free VPNs often compromise user privacy. For example, some free VPNs have been found to exploit users' devices for malicious activities or sell user data.
 
-以下是您可以使用 VPN 执行的一些用途：
+#### Do You Need a VPN in Hong Kong?
 
-- 解锁流媒体平台：一些流媒体平台仅在某些位置可用，并且大多数针对不同地区有不同的库。VPN 可让您解锁流媒体平台并浏览来自世界各地的内容。
-- 绕过审查：一些政府阻止其居民访问某些网站和服务。VPN 会更改您的虚拟位置，让您可以绕过审查并查看世界其他地方的可用内容。
-- 停止在线跟踪： VPN 服务提供加密隧道，阻止您的互联网服务提供商和网站跟踪您的 IP 地址、地理位置和浏览器元数据等数据。
-- 访问专用网络：您可以使用 VPN 远程连接到专用网络。尽管您仍在使用互联网，但 VPN 在专用网络和开放网络之间提供了一道屏障。
+Yes, while Hong Kong enjoys more internet freedom than mainland China, increased surveillance and censorship pose risks. A VPN protects your privacy and ensures secure access to restricted content.
 
+#### Do You Need a VPN in Taiwan?
 
-#### VPN真的有用(有效)吗？
-关于 VPN 的有效性，一直以来都有争议，但由于我多年经验，有一点秘诀。只要您坚持使用信誉良好的付费VPN服务，例如我这里推荐的expressvpn，Strongvpn等等，您的 VPN 就可以正常工作。
+Taiwan boasts unrestricted internet access. However, using a VPN is recommended when connecting to public Wi-Fi to safeguard your data.
 
-不过，有些人还是不相信，也不能怪他们。举个例子，Facebook 提出每月向移动用户支付 20 美元以连接到 VPN。根据 TechCrunch 的一项调查，这个 VPN（有时被称为 Project Atlas)能使Facebook 能够访问移动设备的root权限，偷偷存取您的资料。
+#### Where Else is a VPN Necessary?
 
-还有像 Hola 这样的免费 VPN，它提供连接到 Luminati 网络的免费 VPN 服务。该网络的订阅者每月支付费用，以使用 Hola 的免费 VPN 服务从设备访问带宽，实质上是在不知情的用户硬件上创建了一个僵尸网络。值得注意的是，自从问题浮出水面以来，Luminati 已经纠正了他们与僵尸网络相关的问题。
+Besides China, VPNs are vital in:
+- **Russia**: Overcoming social media and news site restrictions.
+- **Iran**: Accessing blocked content like social media and news.
+- **Turkey**: Bypassing blocks on platforms like Twitter and YouTube.
+- **UAE**: Accessing VoIP services like Skype and WhatsApp.
 
-如果您连接到 VPN，您可以进行快速测试以查看它是否正常工作。
+Even in countries with fewer restrictions, VPNs protect privacy, prevent tracking, and unlock geo-restricted content.
 
-#### 在香港需要科学上网吗？ (在香港需要翻墻吗?)
+#### What to Do If Your Paid VPN Doesn't Work?
 
-香港作为一个开放自治地区的地位正日益受到北京日益增加的干预的威胁。它的互联网自由地位现在已经滑落到“部分自由”排名。无论您是想保护您的数字隐私还是访问美国 Netflix 或 BBC iPlayer 等被阻止的内容，我會建議在香港還是使用VPN(虚拟专用网络)。
-香港居民没有中国大陆流行的那种封闭式互联网，但这并不意味着共产党没有关注你的一举一动。去年，许多人因持有主张脱离中国独立以及批评中国政府的观点而被捕。基于这些原因，我们建议您在香港浏览网页时使用 VPN。它有助于维护互联网上的隐私和匿名性，并使黑客和政府机构难以监视您的互联网活动。
-
-防火墙只延伸到中国大陆。香港、台湾和澳门保持对全球互联网的自由开放访问。你仍然可以在没有 VPN 的情况下从这些地方访问所有您喜爱的社交媒体、新闻、聊天应用程序和多媒体网站。
-
-#### 在中国台湾需要科学上网吗？ (在中国台湾需要翻墻吗?)
-台湾以自由、不受限制、不受审查的互联网着称。所以不需要，绝大多数人在家中访问互联网时不需要登录 VPN 服务，无论是通过 Android 手机、Windows 计算机还是其他连接的设备。但是，VPN 是重要的隐私工具，尤其是在您浏览互联网时。當你在咖啡廳使用wifi服務時候，我還是建議大家使用VPN。
-
-#### 除了中国以外，还有哪些地方需要使用VPN？
-虽然中国是VPN使用最广泛的地方之一，但实际上在世界各地，许多人都会出于各种原因选择使用VPN。以下是一些其他可能需要使用VPN的地区和国家：
-##### 1. 俄罗斯
-俄罗斯政府在网路监控和限制方面的政策与中国相似。他们已经封锁了一些社交媒体平台和新闻网站。因此，为了突破这些限制，许多俄罗斯公民和访客选择使用VPN。
-##### 2. 伊朗
-由于严重的网路审查，伊朗的公民和访客可能需要使用VPN来获取被阻止的内容，如社交媒体和新闻网站。
-##### 3. 土耳其
-土耳其政府时常封锁各种社交媒体网站，包括Twitter和YouTube。VPN对于需要访问这些网站的土耳其人民和访客来说是必要的。
-##### 4. 阿拉伯联合大公国(UAE)
-阿联酋的互联网服务提供商对某些类型的服务，如VoIP进行了封锁，这就使得Skype、WhatsApp语音和视频通话等服务无法使用。因此，许多人选择使用VPN来获取这些服务。
-除此之外，即使在互联网言论自由度较高的国家，如美国和欧洲，人们也可能会选择使用VPN来保护他们的隐私、避免网路追踪，或者解锁地区限制的内容（例如Netflix或其他流媒体平台的国家专属内容）。
-无论在哪里，使用VPN都是对自由网路访问和隐私保护的重要工具。
+1. **Check Your Settings**: Ensure proper VPN configuration and correct credentials.
+2. **Restart Devices**: Restart your computer and VPN client.
+3. **Contact Support**: Reach out to your VPN provider’s customer support for assistance.
+4. **Remote Assistance**: Allow the support team to troubleshoot your issue if necessary.
 
 
-#### 我购买的付费VPN无法上网，请问我该如何处理?
-如果您在连接到 VPN 时遇到问题，可以尝试一些方法。 
-1首先，检查以确保你的 VPN 设置正确并且你使用的是正确的登录凭据。 如果那里一切正常，请尝试重新启动计算机，然后再次尝试连接。 有时只需重新启动您的 VPN 客户端即可解决问题。
+### The Use and Benefits of Double or Multi-Hop VPNs
+<a name="double-or-multi-hop-vpn-benefits"></a>
 
-2如果您仍然遇到问题，下一步是联系你的 VPN 提供商的客户支持。 他们应该能够帮助您解决问题并让您快速连接。 在大多数情况下，您只需按照他们的指示进行操作即可。 
+Double VPN, also known as multi-hop VPN, routes your internet connection through two or more VPN servers instead of just one. This approach enhances security and privacy but may impact connection speeds. Here are some potential benefits and use cases:
 
-3但是，如果你仍然遇到困难，他们可能会通过远程访问您的计算机来诊断问题来进一步帮助你。
+#### 1. Enhanced Privacy Protection
 
+Using double or multi-hop VPNs makes it significantly harder to trace your online activities. When your data passes through a second VPN server, the original IP address is already masked by the first VPN server. This means even if someone intercepts and analyzes data from the second server, they can only see the IP address of the first server, not your real one.
 
-### 双重或多重VPN的使用和优势
-<a name="双重或多重VPN的使用和优势"></a>
-双重VPN或者称之为多重VPN，就是你的网络连接会通过两个或更多的VPN服务器，而不仅仅是一个。这样做的好处主要在于提高安全性和隐私性，但可能会对连接速度产生影响。以下是一些可能的优点和用途：
+#### 2. Prevention of Surveillance and Data Leaks
 
-#### 1. 增强隐私保护
+Double or multi-hop VPNs add an extra layer of security, which is especially beneficial when accessing sensitive information from insecure networks such as public Wi-Fi. Even if one VPN connection is compromised, attackers must still bypass the additional layers to access your data.
 
-使用双重或多重VPN可以使你的网络活动更难以追踪。当你的数据通过第二个VPN服务器时，原始IP地址已经被第一个VPN服务器所掩盖。这就意味着，即使有人能够截取并分析第二个VPN服务器的数据，他们也只能看到来自第一个VPN服务器的IP地址，而无法找到你真实的IP地址。
+#### 3. Circumvention of Strict Network Censorship
 
-#### 2. 防止监视和数据泄露
+In regions with strict network censorship, such as China or Iran, double or multi-hop VPNs can help. By setting up VPN servers in different countries or regions, you can effectively bypass geographic restrictions and censorship.
 
-双重或多重VPN可以提供额外的安全层，这在你需要从不安全的网络（如公共WiFi）访问敏感信息时特别有用。即使在一个VPN连接被破解的情况下，攻击者还需要破解其他的VPN连接才能访问到你的数据。
+#### Considerations and Drawbacks
 
-#### 3. 规避严格的网络审查
+While double or multi-hop VPNs provide enhanced privacy and security, they come with trade-offs:
+- **Reduced Speed**: The additional encryption and decryption processes may slow down your internet connection.
+- **Complex Setup**: Managing multiple VPN connections can be more complex compared to a single VPN setup.
+  
+#### Summary
 
-在一些对网络进行严格审查的地区，如中国或伊朗，使用双重或多重VPN可能会有帮助。通过在不同的国家或地区设置VPN服务器，你可以有效地规避地理限制和审查。
-
-然而，值得注意的是，双重或多重VPN也有一些可能的缺点。例如，多重加密和解密过程可能会使你的网络连接速度变慢。此外，设置和管理多个VPN连接可能会比使用单一VPN更为复杂。
-
-总的来说，双重或多重VPN为寻求额外隐私和安全的用户提供了一个有效的工具，但是需要考虑其可能带来的性能和便利性的折衷。
-
+Double or multi-hop VPNs are valuable tools for users seeking additional privacy and security. However, users should weigh the potential trade-offs in performance and convenience before implementing this strategy.
 
 ### Impact of VPN on Internet Speed
 <a name="impact-of-vpn-on-internet-speed"></a>

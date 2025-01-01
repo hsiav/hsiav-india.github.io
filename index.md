@@ -99,7 +99,7 @@ Below is the aggregated speed performance chart, showing the average download an
 ---
 
 
-最近更新：`2024年12月25号`
+The latest update：`2024-12-25`
 
 
 > ## 本文内容导航
@@ -1103,44 +1103,65 @@ This table lists VPN services that are overpriced, unreliable, or known to have 
 | Lantern VPN         | Open-source                          |
 
 
-## 中国VPN推荐标准以及必要的特色
-<a name="中国VPN推荐标准以及必要的特色"></a>
-在选择 VPN 服务时，以下是一些重要的考虑因素：
+## India VPN Recommendations and Essential Features
+<a name="india-vpn-recommendations-and-essential-features"></a>
 
-### 1. 稳定可靠的大品牌
-随着我国政策的日益严格和“墙”的不断升高，一些常见的 VPN 流量，如过去的 PPTP 协议，现在已经容易被识别和封锁。此外，一旦某些 IP 被大规模发现有特征流量，这些 IP 基本上就不能再使用了。这也是自建 SSR 存在的问题，一旦 IP 被封，通常需要付费购买新的 IP。
+When selecting a VPN service in India, here are some critical factors to consider:
 
-因此，选择一个稳定可靠的大品牌 VPN 非常重要。这需要 VPN 服务商有强大的资金和技术支持，才能应对“墙”的不断升级和迭代，长期保持 VPN 服务的稳定和可靠。
+---
 
-### 2. 个人测试和使用
-本文推荐的 VPN 服务都是全球排名前 20 的大品牌，都经过了我个人的使用和测试。这与许多其他的推荐不同，那些推荐可能是没有实际测试和使用过，或者包含了很多过期的信息。例如，有些 VPN 品牌可能已经倒闭（比如 Green 等国产品牌），或者以前在国内能用，现在却不能用了。
+### 1. Stability and Reliability from Reputable Brands
+Given India's evolving regulations and growing digital landscape, it’s vital to use a VPN with robust protocols and reliable server networks. Protocols such as PPTP are now easily detectable and blockable. Moreover, if an IP is flagged, it becomes unusable, which is often a challenge with self-hosted SSR setups that require purchasing new IPs.
 
-我个人也是经常几家换着用，最少要做两手准备，以防在墙外出现尴尬的情况。
+Opting for a reputable VPN brand ensures stability and long-term reliability. Large VPN providers, such as ExpressVPN or StrongVPN, are better equipped to adapt to technological advancements and maintain consistent services.
 
-我们的 VPN 推荐是基于上述的选择标准，建议大家在选择 VPN 时，参考这些标准和我们的 VPN 排名，以及我分享的最新使用信息，而不是盲目付费购买。
+---
+
+### 2. Personal Testing and Experience
+The VPNs recommended here have been personally tested for performance, reliability, and usability in India. Unlike other lists that may rely on outdated or untested information, this guide ensures up-to-date and accurate insights. For instance, while some brands may claim high performance, many (like older domestic providers) may no longer function effectively in India.
+
+Having multiple VPN options ready is essential, especially during crucial times when one service might face connectivity issues.
+
+---
+
+### 3. Support for Various Operating Systems
+Most VPNs support common operating systems like Windows and macOS. However, Linux users may find limited support, as many VPNs only provide command-line applications. VPNs like **ExpressVPN** and **StrongVPN** are among the few offering full-featured Linux apps, ensuring compatibility with specialized distributions such as Ubuntu.
+
+---
+
+### 4. Device Connection Limits
+**ExpressVPN**, **StrongVPN**, and **FlowVPN** allow up to 5 simultaneous device connections, while **Surfshark** offers unlimited device connections. Note that these limits only apply to active connections; you can still install the VPN software on unlimited devices but can only connect a limited number simultaneously.
+
+---
+
+### 5. Split Tunneling
+Split tunneling allows you to decide which apps or services use the VPN connection and which operate through your regular connection. For example, you can stream local content like Hotstar without VPN while accessing international platforms like IEEE or Netflix through VPN, optimizing speed and efficiency.
+
+---
+
+### 6. Bandwidth and Data Limitations
+Bandwidth and data limits are often misunderstood. 
+- **Bandwidth** determines how much data you can transfer at a time. More bandwidth means higher video quality and smoother downloads. Unlimited bandwidth ensures consistent speeds, even with heavy usage.
+- **Data limits**, on the other hand, cap your total usage over a specific period. For instance, a 10GB daily limit might allow two or three HD movies or equivalent downloads.
+
+Ensure the VPN you choose provides unlimited bandwidth for a seamless experience.
+
+---
+
+### 7. 24/7 Customer Support
+Premium VPN providers like **ExpressVPN** and **StrongVPN** offer 24/7 live chat support for instant help. Many others rely on email, which may result in slower resolution times. For quick assistance, opt for a service with live chat options.
+
+---
+
+### 8. 30-Day Money-Back Guarantee
+Most top VPN providers, including ExpressVPN and StrongVPN, offer a **30-day money-back guarantee**, providing a risk-free opportunity to test their services. This ensures peace of mind if you're unsure about your purchase.
+
+---
 
 
-### 1 各种操作系统均支持
-如果你运行的是 Windows 或 macOS，多数人不必担心这个问题。大多数VPN还具有适用于Android和iOS的移动应用程序。 但是，如果你运行的是Linux或其各种特别的发行版，例如 Ubuntu，则情况并非如此。大多数VPN仅提供适用于 Linux 的命令行应用程序，而Expressvpn 和strongvpn 是少数具有完整 Linux 应用程序的 VPN 之一。
-
-### 2 多少设备同时连接
-Expressvpn，StrongVPN，flowvpn，最多允许五种设备连结，surfshark则可以允许无限多台设备连接，这里要记住的一件事是，这只是你可以同时连接的设备数量。你仍然可以在无限多的设备上安装和运行 Expressvpn，StrongVPN，flowvpn 等服务——你只是无法同时在所有设备上运行 VPN。
-
-### 3 拆分隧道技巧
-拆分隧道(英文称作VPN split tunneling)，简单说就是: 拆分隧道允许您选择哪些应用程序将通过VPN运行，哪些应用程序将不受保护。比方我在国内一个浏览器听爱奇异，另一个浏览器在看IEEE的文章(研究生的日常)，爱奇异就不需要通过VPN，IEEE则需要通过VPN，这样让你的平均速度的最大化。通常当你运行VPN时候，local端的速度会降低，因为中间的传输VPN加密需要时间。隧道拆芬可以部份解决这个问题。
-
-### 4 带宽(bandwidth)
-这是一个经常被误解的主题，很多博主搞不清楚带宽限制和数据限制的差别。带宽决定了你一次可以传输多少数据。简单说，你拥有的带宽越多，你可以传输的视频质量就越高。拥有无限带宽意味着连接到 VPN的其他人不会影响你的速度。再举个例子: 另一方面，数据限制决定了你在特定时间段内可以使用的流量。例如，如果你的每日数据流量限制为10GB，您可以观看两到三部高清电影，或下载 10GB 的文件。
-
-### 5 七天24小时 客户支持
-通常有两种方法，ExpressVPN 等高级VPN提供商提供聊天(online chat)作为主要支持形式。更多大多数提供商允许你直接通过电子邮件沟通，strongvpn 和expressvpn都有即时聊天系统。
-
-### 6 30天内退款保证
-如果你对为你购买的VPN犹豫不决，你会很高兴听到大多数 VPN 提供30天内退款保证
 
 
-
-## VPN 隐私功能
+<!-- ## VPN 隐私功能
 ### 7 无日誌政策
 无日志政策几乎是VPN必要条件，简单说: 他永远不会记录或存储您的数据。但是，除了检查VPN提供商的历史记录是没有什么好方法可以知道哪些提供商会真正的清除用户的纪录。过去有不少VPN号称无纪录，但是后面被发现 偷偷的贩售使用者资料，这类VPN，我有整理在下方。大家千万不要使用。
 
@@ -1225,103 +1246,207 @@ VPN服务器的分布，也是一个很VPN效能的关键因素，第一: 服务
 媒体服务器是针对带宽密集型任务（通常是多媒体影音平台）来进行优化的服务器。并非所有服务器的构建方式都相同，由于位于高流量位置，某些服务器的容量可能会降低。媒体服务器应该（理论上）为繁重的任务提供更好的连接，并隐藏你正在使用VPN的事实，因此媒体网站不会阻止你。
 
 ### P2P服务器
-P2P（或“点对点”）网络是您可以直接从其他用户的计算机下载文件的地方，而不是集中式服务器。特别适合torrent的下载如，果您打算使用 VPN 进行种子下载，那么使用专用服务器总是有帮助的。除了额外的带宽容量，这些P2P服务器还提供额外的安全措施。
+P2P（或“点对点”）网络是您可以直接从其他用户的计算机下载文件的地方，而不是集中式服务器。特别适合torrent的下载如，果您打算使用 VPN 进行种子下载，那么使用专用服务器总是有帮助的。除了额外的带宽容量，这些P2P服务器还提供额外的安全措施。 -->
 
 
-## 在中国使用VPN常见的问题
-底下是网友常常问问的部分问题，我将它稍微整理如下:
+## Common Issues When Using VPNs in India
+Below are frequently asked questions and solutions related to VPN usage in India. These have been compiled for better understanding and assistance.
 
-### 我购买的strong VPN突然不能连线，要如何处理: 
-strongvpn 是目前最受欢迎的 VPN 提供商之一，但这并不意味着它是完美的。 用户体验的一个常见问题是 strongvpn 丢失连接。 这可能会令人沮丧，尤其是当你正在将 VPN 用于重要的事情时。 发生这种情况的原因有几个。 首先，strongvpn 可能在您所在的地区遇到中断。 其次，您的互联网连接可能不稳定。 第三，您可能超出了计划的数据限制。 第四，您连接的服务器可能正在经历大量流量。 如果您遇到 strongvpn 丢失连接，您应该做的第一件事是检查您所在地区是否存在任何已知问题。 如果没有，请尝试重新启动路由器和 strongvpn 客户端。 如果这不起作用，请联系客户支持以帮助解决问题。
+---
+
+### 1. StrongVPN Suddenly Stops Connecting. What Should I Do?
+StrongVPN is one of the most popular VPN providers, but occasional connection drops can occur. Common reasons include:
+- **Server Outages**: StrongVPN servers may face temporary disruptions in your region.
+- **Unstable Internet Connection**: Check your local network stability.
+- **Server Overload**: The server you are using might be under heavy traffic.
+- **Configuration Issues**: Double-check your VPN settings and credentials.
+
+#### Solution:
+- Restart your router and the StrongVPN client.
+- Switch to a different server within the app.
+- Contact StrongVPN’s support team for further assistance.
+
+---
+
+### 2. "Suspicious Activity Detected, Please Contact Support" Error While Purchasing StrongVPN
+This error often occurs due to using a flagged public proxy IP or email. 
+
+#### Solution:
+- Use a different email address or network to complete the purchase.
+- Contact StrongVPN support with details, including your current IP address, so they can investigate the issue.
+
+---
+
+### 3. ExpressVPN Not Connecting After Firewall Updates
+Firewall upgrades can disrupt connections to popular VPNs like ExpressVPN. This is due to sudden blocking of commonly used nodes.
+
+#### Solution:
+- Switch to alternative nodes within the ExpressVPN app.
+- Try using the L2TP protocol if OpenVPN faces issues.
+- Contact customer support for node-specific advice.
+
+---
+
+### 4. Surfshark Disconnects After Firewall Updates
+Surfshark offers a specialized feature for connecting to the fastest server, but connection issues can occur.
+
+#### Solution:
+- Ensure you have the latest Surfshark app version installed.
+- Check your internet connection stability.
+- Switch to a different Surfshark server within the app.
+
+---
+
+### 5. Can I Use a Promo Code to Renew ExpressVPN After 15 Months?
+Yes, you can renew using a promo code by following these steps:
+1. Use a new email address to create a new account and avail discounts such as 3 months free.
+2. Renew your old account at the full price if no discount is available.
+
+#### Additional Tip:
+- Clear browser cookies or use an incognito window when signing up to avoid being flagged as a returning customer.
+
+---
+
+### 6. Slow or Inaccessible Indian Websites After Connecting to ExpressVPN or StrongVPN
+Connecting to VPN routes your data through international servers, which may increase latency for local websites.
+
+#### Solution:
+- Use a split tunneling feature to exclude Indian websites from VPN routing.
+- Update DNS settings:
+  - Open the StrongVPN/ExpressVPN client.
+  - Go to settings -> advanced -> custom DNS.
+  - Use DNS such as `8.8.8.8` (Google DNS) or other public DNS servers.
+- If the problem persists:
+  - Configure UDP 500 and UDP 4500 port forwarding on your router.
+  - Enable OpenVPN/IPSec passthrough on the router.
+  - Allow VPN traffic in your computer’s firewall settings.
+
+---
+
+### 7. Unable to Access StrongVPN’s Global Servers
+Some users encounter difficulties connecting to international servers due to ISP restrictions.
+
+#### Solution:
+- Update the DNS settings as described above.
+- If the issue persists, contact StrongVPN support with a detailed error report.
+- Alternatively, try a different VPN protocol like OpenVPN or IKEv2.
+
+---
+
+These solutions address the most common issues Indian users face while using VPNs like ExpressVPN, StrongVPN, or Surfshark. If problems continue, reaching out to the VPN provider's customer support is often the fastest way to resolve them.
 
 
-### 如果您在尝试购买 StrongVPN 时收到“检测到可疑活动，请联系支持”消息 (Suspicious activity detected, please contact the support.)
-如果您在尝试购买 StrongVPN 时收到“检测到可疑活动，请联系支持”消息，则可能是您使用的公共代理 IP 或邮箱有问题。我们建议尝试其他机会或联系客户服务寻求帮助。联系客户服务时，请务必提供与您合作的代理的 IP 地址，以便他们调查问题并尽快帮助解决问题。
+## StrongVPN Installation Guide
 
-### 防火牆升级导致expressvpn，不能连线，怎麽处理。
-ExpressVPN 是一种虚拟专用网络服务，允许用户以更高的隐私和安全性连接到互联网。 但是，升级墙后，ExpressVPN无法连接。 这是因为墙的例行升级导致ExpressVPN的几个常用节点突然无法连接。 但别担心，有一个解决方案。 用户可以尝试连接手机上的其他节点，也可以尝试使用L2TP协议连接其他节点。 使用 ExpressVPN，用户将能够以更高的隐私和安全性享受互联网。
+### Step-by-Step Instructions to Download and Use StrongVPN
 
+After purchasing your StrongVPN subscription, follow these steps to install and start using it. This guide uses the Windows system as an example. For instructions on other devices such as iOS, Linux, macOS, or Android, please refer to my other articles.
 
-### 防火牆升级导致surfshark，不能连线，怎麽处理。
-Surfshack 提供了一种专用的智能上网模式，可自动将您连接到最佳位置的最快服务器。 这使其成为想要在海外访问相关内容或网站的任何人的理想选择。 然而，Surfshack 的一个缺点是它偶尔会失去连接。 这可能令人沮丧，但您可以采取一些措施来解决此问题。 首先，确保您使用的是最新版本的 Surfshack 应用程序。 其次，检查您的互联网连接并确保其稳定。 最后，如果一切都失败了，您可以尝试连接到不同的 Surfshack 服务器。 按照这些步骤，您应该能够成功连接到 Surfshack 并享受它的所有好处。
+---
 
-### 经过15个月以后，我想要再用优惠代码购买expressvpn? 是否可以?
-如果您希望续订 ExpressVPN 订阅，可以通过此页面上的折扣链接进行。 只需使用新的电子邮件地址创建一个新帐户，您就有资格获得三个月的免费。 然后，您可以直接从 ExpressVPN 网站续订旧帐户或购买新订阅。 请记住，年度续订旧帐户没有折扣，因此如果您走这条路线，则必须支付全价。
+### Step 1: Register and Download StrongVPN
+1. After completing your purchase, log in to the StrongVPN user dashboard via [StrongVPN Official Website](https://dr-wall.com/go/strong?data1=strong&data2=article).
+2. Navigate to the **StrongVPN Client** section. The system will automatically detect your operating system.
+3. If the system does not auto-detect, manually select your operating system to download the appropriate software.
 
-其他VPN续费方法与此相同。 大多数品牌为新帐户提供折扣，因此在注册新帐户之前清除浏览器 cookie 或使用 VPN 非常重要。 这将帮助您避免被系统视为重复注册。 续订订阅时，请务必检查可能提供的任何特别优惠或交易。 您通常可以在品牌网站上或通过搜索引擎找到这些优惠。 如果您通过第三方提供商续订订阅，请务必询问他们是否提供任何折扣。 很多时候，通过第三方提供商续订订阅可以为您省钱。
+![Download StrongVPN](./image/strong/s6.PNG)
 
-### 使用expressVPN或strongvpn 连接后，访问国内网站慢或者无法访问，
-对于那些寻求可靠且价格合理的 VPN 服务的人来说，StrongVPN 或expressvpn 是一个不错的选择。然而，SStrongVPN 或expressvpn的一个缺点是它是一个全球代理。这意味着连接后，你的数据会先发送到国外服务器，然后再传回给你。这可能会显着增加你的连接延迟，并使网页浏览或流式视频非常缓慢。一种解决方案是在你的计算机上安装虚拟机并使用它来访问 StrongVPN。通过这样做，你可以完全避免延迟问题。此外，StrongVPN 经常提供续订折扣，因此值得经常查看他们的网站以获得最优惠的价格。
+---
 
-部分电脑读者也主要遇到strongVPN的外网连接问题（我自己用的时候遇到过这样的问题，但是重新连接就好了，如果一直无法上网，请咨询官网） 回复来自客服是： 本地网络操作 商用DNS有限制，可能需要修改DNS服务器。比如改成114DNS或者阿里云DNS就可以解决这个问题。修改DNS服务器：打开Strong VPN客户端——点击设置——点击高级——选择“使用自定义DNS服务器”——第一行DNS服务器地址输入8.8.8.8——第二行输入8.8.4 4输入DNS服务器地址（或其他可以连接的公网DNS服务器）-save-restart strong vpn-retry connection
+### Step 2: Install StrongVPN
+1. After downloading, follow the on-screen instructions to complete the installation process.
+2. During installation, the system may ask if you want to allow the StrongVPN application to run. Click **Yes** when prompted.
+3. You may also be asked to allow the application to start. Again, click **Yes** to proceed.
 
-如果仍然无法解决，可能与您的路由器设置或你的 ISP 限制有关。您可以尝试以下解决方案：
+![Installation](./image/strong/s7.PNG)
 
-1) 在路由器上为 UDP 500 和 UDP 4500 配置端口转发；
-2) 在您的路由器上启用 OpenVPN/IPSec 直通；
-3) 设置您计算机的防火墙以允许来自 Strong 的所有流量
+---
 
+### Step 3: Log In to StrongVPN
+1. Open the StrongVPN application.
+2. Enter your registered email address and the password you set up via email to log in.
 
-## strongvpn 的使用安装教学
+![Login](./image/strong/s8.PNG)
 
-现在来解释如何下载并使用strongvpn。按照上述方法付完钱以后，选择你的对应设备: 有iOS, linux, windows, mac, 或android，这裡用windows系统当作教学。关于其他设备，可以参考我的其他文章。
+---
 
-###  第一步  StrongVPN官方网站注册并完成购买以后，从<a href="https://dr-wall.com/go/strong?data1=strong&data2=article">StrongVPN</a> 登入用户端后台，选择”StrongVPN Client”，strongvpn会自动侦测你的系统。
-如果系统没有自动选择，你可自行选择作业系统进行软件下载。
+### Step 4: Select a Server
+1. Use the **Smart Location** feature within StrongVPN to automatically choose the best server for your location.
+2. Alternatively, manually select a server location based on your preference.
+   - For users in China, servers in **Hong Kong**, **Taiwan**, and **Japan** have been tested and provide the best performance for bypassing restrictions.
 
-<img src="./image/strong/s6.PNG" alt="drawing" width="1000"/>
+![Select a Server](./image/strong/3.PNG)
 
-### 第二步: 下载完成后，根据指示即可安装完成。登入需要输入信箱与刚刚透过邮件设定好的密码。
-有时候，系统会询问您是否允许设置 StrongVPN 应用程序，单击弹出窗口上的“是”按钮。偶尔也会询问您是否允许启动 StrongVPN 应用程序。也点"是"。即可
+---
 
-<img src="./image/strong/s7.PNG" alt="drawing" width="1000"/>
+### Additional Notes
+- StrongVPN offers robust performance and reliable connectivity, making it an excellent choice for bypassing geographic restrictions and ensuring online privacy.
+- Refer to my other articles for detailed usage tips and troubleshooting guides.
 
-### 第三步: 输入帐号密码之后开启，输入帐号密码登入即可使用。参考下方图片
-
-<img src="./image/strong/s8.PNG" alt="drawing" width="1000"/>
-
-### 第四步: 智能选择节点或是自己选择地点
-你可以透过Strongvpn内建的智慧节点选择或自行选择节点进行连线。我个人建议中国翻墙首选的话，目前测试起来香港台湾日本等三地效果最佳。更多细节我会在下面一一回答。
-
-<img src="./image/strong/3.PNG" alt="drawing" width="1000"/>
-
+Enjoy a secure and unrestricted internet experience with StrongVPN!
 
 
 
 
 
+## ExpressVPN Installation Guide
 
-## Expressvpn 的安装教学
+### Step-by-Step Guide to Download and Use ExpressVPN
 
-现在来解释如何下载并使用Expressvpn。按照上述方法付完钱以后，选择你的对应设备: 有iOS, linux, windows, mac, 或android，这裡用windows系统当作教学。关于其他设备，可以参考我的其他文章。
+After successfully purchasing your ExpressVPN subscription, follow these steps to install and use it. This guide uses macOS as an example. For instructions on other devices such as iOS, Linux, Windows, or Android, please refer to my other articles.
 
-### 第一步 记得先用<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn 优惠</a>购买
-Expressvpn 底下我用mac当作教学。 先到<a href="https://www.expressvpn.com/vpn-software/vpn-mac">官方网站</a>下载，expressvpn会自动侦测你的设备。或是登录帐号: 转到ExpressVPN 帐户仪表板。如果出现提示，请输入你的 ExpressVPN 帐号密码 并单击登录
+---
 
-### 获取激活码(activation code)
-要在的 Mac 电脑上使用 ExpressVPN，找到你的activation code。
+### Step 1: Purchase ExpressVPN
+Make sure to purchase ExpressVPN using the [ExpressVPN Discount Link](https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github) for the best deal. Visit the [ExpressVPN Official Website](https://www.expressvpn.com/vpn-software/vpn-mac) to download the application. ExpressVPN will automatically detect your device.
 
-<img src="./image/exp/4.PNG" alt="drawing" width="1000"/>
+Alternatively, log in to your ExpressVPN account through the dashboard. If prompted, enter your account credentials and click **Log In**.
 
-### 第二步 安装应用程序
-在电脑上找到下载的文件并打开它。弹出一个窗口。系统会问你 “是否允许运行一个程序来确定是否可以安装该软件。” 单击继续，然后继续单击继续，直到到达“安装类型”屏幕。选择安装local位置，点击安装。等待安装完成，然后单击关闭
+---
 
-<img src="./image/exp/5.PNG" alt="drawing" width="1000"/>
+### Step 2: Retrieve Your Activation Code
+To use ExpressVPN on your Mac, you need to locate your **activation code**. It will appear in your account dashboard.
 
-### 第三部: 登入expressvpn开始使用:
-首先sign in ExpressVPN，输入你的帐号密码(或是刚刚的activation code)，mac系统可能会询问你是否允许在VPN 配置中添加 ExpressVPN IKEv2，请单击允许继续。
+![Activation Code](./image/exp/4.PNG)
 
-<img src="./image/exp/6.PNG" alt="drawing" width="1000"/>
+---
 
-### 第四部: 使用方法
-要连接到 VPN 服务器位置，请单击中间的圈圈按钮。. 默认情况下，ExpressVPN 会建议为自动提供最佳体验的位置，称为智能位置。点选以后，红色的圈圈会变成绿色的 (显示connected)。表示连线上了，这时候可以测试看看可否翻牆成功。
+### Step 3: Install the Application
+1. Locate the downloaded file on your computer and open it. 
+2. A pop-up window will appear asking if you want to run the program to verify its installation. Click **Continue**.
+3. Proceed by clicking **Continue** until you reach the "Installation Type" screen.
+4. Choose a local installation location and click **Install**.
+5. Wait for the installation to complete and click **Close**.
 
-注意：每一次订阅，最多可以同时将五台设备连接到 VPN。
+![Installation](./image/exp/5.PNG)
 
-要关掉vpn，就在点击中间的按钮，系统会回到disconnected状态。点下方可以换国家。 自己选择位置，在中国的朋友建议选择香港，台湾，日本这几个地方。更多expressvpn操作细节，请参考我的其他文章。
+---
 
-<img src="./image/exp/7.PNG" alt="drawing" width="1000"/>
+### Step 4: Log In to ExpressVPN
+1. Open the ExpressVPN app and click **Sign In**.
+2. Enter your account credentials or paste your **activation code**.
+3. If prompted, macOS may ask if you want to allow ExpressVPN IKEv2 to be added to the VPN configuration. Click **Allow** to continue.
 
+![Login](./image/exp/6.PNG)
+
+---
+
+### Step 5: Connect and Start Using ExpressVPN
+1. To connect to a VPN server, click the circular button in the middle of the app. 
+2. By default, ExpressVPN will recommend the best server location, called the **Smart Location**, for optimal performance.
+3. Once connected, the red circle will turn green, indicating that the VPN is active. You can test to confirm that your connection is working.
+
+To disconnect, click the central button again to return to the **disconnected** state. Use the location menu to switch countries. For users in China, it is recommended to connect to servers in Hong Kong, Taiwan, or Japan.
+
+![Connected](./image/exp/7.PNG)
+
+---
+
+### Additional Notes
+- Each subscription allows up to **five devices** to be connected simultaneously.
+- For further ExpressVPN operational details, refer to my other articles.
+
+Enjoy secure and unrestricted browsing with ExpressVPN!
 
 ## Surfshark Installation Guide
 
