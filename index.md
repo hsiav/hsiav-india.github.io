@@ -100,29 +100,7 @@ Below is the aggregated speed performance chart, showing the average download an
 
 
 最近更新：`2024年12月25号`
-<!-- 
->**在当前的环境下，能在国内长期稳定并有效使用的VPN服务已经变得相对稀缺。许多VPN评论网站往往互相抄袭，发布的内容很多都已经失去了时效性。有一部分推荐的VPN在国内的实际效果并不理想，令人遗憾的是，很多的评论者身处国外，他们并无法提供在国内使用VPN的真实体验。特别是在过去的两年中，由于"防火长城"的严密封锁，许多过去可用的VPN现在已经变得几乎无法使用。因此，在阅读本文的同时，我建议大家需要谨慎理解并避免进入"坑"。本文将根据实际的使用经验介绍各种VPN软件的最新使用情况，并将持续更新最新的使用情况，以供大家参考和避坑。本文是关于中国安全翻牆策略的详细版本，讨论了翻牆软件、科学上网以及网络安全等相关问题。如果你只希望快速选择一款科学上网软件来翻牆，那麽可以直接查看本文下方的目录导航。
 
-翻牆（科学上网）的重要性，我想大家心里都有数。否则，你现在也不会在这里阅读这篇文章。如果不能翻牆，就不能使用Google搜寻编程代码，不能回复Gmail邮件，也无法观看YouTube的视频。那些在Udemy购买的课程，你能够舒适地观看吗？你能否追踪HBO和Netflix的剧集？由于工作出差和生活学习的需要，我经常需要在不同的地区使用科学上网。基于我的个人使用感受以及对VPN软件这个行业的理解，我将为读者推荐在国内最好用、最稳定和最安全的科学上网方法和工具。我也将长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻牆和信息安全技术。
-
->**据中央社引述中国官方消息报道，中国上网人数突破9亿，网购用户超过7亿，可见大家对上网的需求日益增加, 有鉴于网路上许多博主到处乱推荐VPN，都推荐一堆不能用的，不能用的就算了，还要骗大家去买来拿钱，这类博客有个特点，就是喜欢自己架一个网站，写一堆话来骗大家，近几年来，防火墙更新越来越强大，过去许多VPN已经完全不能使用。为了让大家能够持续的有知的自由，再加上太多网站喜欢说不实的讯息，我决定在github上建造一个网页，作为自由博客，帮助大家避坑，不要再浪费时间在那些危险的VPN或是不能用的VPN上。本文会介绍细节，讲一些技术，只想看翻墙科学软件推荐的朋友(如果只想快速选个科学上网软件来翻墙)，可以直接看我的推荐栏位。
-
-多年中美工作经验告诉我，翻墙几乎是现代人必备的一个技能，由于言论审查，只要翻不了墙就不能Google学新的东西，不翻墙就不能看YouTube视频，用facebook，line和外国朋友联络，Coursera和Udemy等线上课程都不能好好观看。HBO、Netflix等影视娱乐也必须要翻墙才能观看，BBC,CNN等国际新闻也都必须要借由翻墙才观看。我本人由于跨国工作，经常要在不同地区使用科学上网，我本人自己也是网路程序员，博士是研究机器学习，也研究过网路相关问题，我将会在下面详细介绍VPN、SSR、WireGuard、V2Ray、Trojan等翻墙和信息安全技术和基本加密技术，我也将就自己的使用感受和对翻墙软件的了解，自己进行数值实验和速度测试，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具。
-
-## 最新本月翻墙新闻更新
-微软在2024年6月发布的最新安全更新可能导致Windows用户的VPN连接出现问题。受影响的操作系统包括Windows 11、Windows 10以及Windows Server 2008及以上版本。部分用户在Reddit上反映更新后无法连接VPN，尽管有些用户通过重新安装VPN应用暂时解决了问题。微软已确认此问题，并表示将在未来的更新中修复。这一情况与微软CEO Satya Nadella强调的安全优先的立场形成了对比。
-<a rel="nofollow noopener" href="https://tw.news.yahoo.com/microsofts-latest-windows-security-updates-might-break-your-vpn-001216447.html" target="_blank">完整内容可以在原文链接查看</a>
-
-
-
-## 翻牆近况更新
-**从2021年的圣诞季节到2023年五月的春末，这一段缤纷却又多事的时光，我们在VPN的世界里看到了许多变化。**那些曾经的大腕如Ivacy、VyprVPN、和蓝灯，在中国的市场里屡遭挫折，似乎正如那浓烈的火锅汤底对于胃的挑战一样，它们的伺服器经常遭受封锁。特别是蓝灯，其安全性就像那灯下的虫子，暴露在我们的目光之下。在此，我们要对所有的用户喊话，请注意躲避这些隐患。那些曾经坚固的城堡如NordVPN，在这场风暴中也是被重点打击，现在可以说是倒下的巨人，它的表现就像一个突然失去了方向的孩子，常常需要手动配置。那个我们曾经称之为“小明星”的PIA，在这场狂风中失去了光芒，被封锁后一直无法有后续的有效反击，目前在国内还是无法连接，请大家谨慎选择。
-
-神秘的PandaVPN就像是一个离家出走的孩子，从11月的深秋开始，就像那渐渐落叶的树一样，官网无法访问，线路无法连接，即使呼喊，也无人回应，我们怀疑他可能已经选择了别的路，去寻找自己的世界，选择了卷款跑路。很多专为国人服务的翻牆软件都在走这条路，大家需要提高警惕，毕竟，世界是美好的，也是充满了挑战。
-
-然而，就像那永不消逝的北斗星，**只有ExpressVPN和StrongVPN在过去几年的表现一直保持着稳定，就如同坐在海边听着浪潮的声音一样令人放心。ExpressVPN像是我们的瑞士刀，适用于所有平台，使用体验就像是骑在风中自由的马上，即使遭遇到封锁，它也能在一周内恢復，只要更新了程序，就像是喝了神奇药剂一样，官方推荐的线路就能恢復正常连接。StrongVPN则是我们的轻装步兵，价格相对便宜，拥有通用版客户端和特供的简化版客户端可供使用，无论是Windows、Mac还是安卓手机端，都能适应。**它们的伺服器线路就像是快速的马车，不时会更新，过去的两年里被封锁的次数也相对较少。但是如果你是iPhone的用户，使用StrongVPN可能需要像是打开一道神秘的门一样，联繫客服手动配置翻牆。而在这种敏感的时期，如果遇到连接问题，你可能需要像是找到藏宝图一样，联繫客服提供国内可用线路或备用线路。
-
-本站包含许多翻牆VPN等各种资料跟速度测试还有常见问题，建议大家直接底下内容导航点及自己想要参考的段落。 -->
 
 > ## 本文内容导航
 > ### 1. [科学上网基本知识](#科学上网基本知识)
@@ -1345,39 +1323,63 @@ Expressvpn 底下我用mac当作教学。 先到<a href="https://www.expressvpn.
 <img src="./image/exp/7.PNG" alt="drawing" width="1000"/>
 
 
-## Surfshark 的安装教学
+## Surfshark Installation Guide
 
-现在来解释如何下载并使用Surfshark。按照上述方法付完钱以后，选择你的对应设备: 有iOS, linux, windows, mac, 或android，这裡用windows系统当作教学。关于其他设备，可以参考我的其他文章。
-### 到官方网站下载surfshark以后，进行安装
-可參考下方圖片，系統會詢問你是否安裝，都點是:
+### Step-by-Step Guide to Download and Use Surfshark
 
-<img src="./image/surfshark/5.PNG" alt="drawing" width="1000"/>
+After successfully purchasing your Surfshark subscription, follow these steps to install and use it. This guide uses Windows as an example. For instructions on other devices such as iOS, Linux, Mac, or Android, please refer to my other articles.
 
-### 输入帐号密码
+---
 
-下載完成以後，打開系統，輸入帳號密碼即可登入。
+### Step 1: Download Surfshark
+Visit the official Surfshark website and download the software for your device. After downloading, proceed with the installation.
 
-<img src="./image/surfshark/6.PNG" alt="drawing" width="1000"/>
+During the installation process, the system will ask for permissions. Click **Yes** to continue.
 
-### 即可连线成功。
+![Surfshark Installation](./image/surfshark/5.PNG)
 
-點選中間的connected按鈕，即可連線，這時候會出現surfshark正在運行的畫面，左邊可以選擇連線國家，請參考下方是意圖。
+---
 
-<img src="./image/surfshark/7.PNG" alt="drawing" width="1000"/>
+### Step 2: Log In to Your Account
+After the installation is complete, open the Surfshark application. Enter your account credentials (email and password) to log in.
+
+![Log In](./image/surfshark/6.PNG)
+
+---
+
+### Step 3: Connect to Surfshark
+Click the **Connect** button in the middle of the interface to start your VPN connection. Once connected, you’ll see a confirmation screen showing that Surfshark is running. Use the options on the left-hand side to select your preferred country for the VPN connection.
+
+![Connected](./image/surfshark/7.PNG)
+
+---
+
+With Surfshark successfully installed and connected, you can now enjoy secure and private internet browsing while accessing global content!
 
 
-## flowvpn 的安装教学
+## FlowVPN Installation Guide
 
-### 现在来解释如何下载并使用FlowVPN。按照上述方法付完钱以後
-选择你的对应设备: 有iOS, linux, windows, mac, 或android，这裡用windows系统当作教学。关于其他设备，可以参考我的其他文章。
-<img src="./image/flowvpn/5.PNG" alt="drawing" width="1000"/>
+### Step-by-Step Guide to Download and Use FlowVPN
 
-### 下載完軟體以後，點擊安裝，安裝完畢即可
+After successfully purchasing your FlowVPN subscription, follow these steps to install and use it. This guide will use Windows as an example. For other devices such as iOS, Linux, Mac, or Android, please refer to my other articles.
 
-### 点选连线(connect)，下方选单可以选取连线国家。参考下方图片，连线上以后，windows电脑会出现flowvpn已经connected。
-可以選擇國家
+### Step 1: Select Your Device and Download the Software
+Visit the FlowVPN website and download the application for your corresponding device. Options include iOS, Linux, Windows, Mac, or Android. For this guide, we'll use Windows as the example.
 
-<img src="./image/flowvpn/6.PNG" alt="drawing" width="1000"/>
+![Device Selection](./image/flowvpn/5.PNG)
+
+### Step 2: Install the Software
+After downloading the software, double-click the installation file and follow the on-screen instructions to complete the installation.
+
+### Step 3: Connect to FlowVPN
+1. Open the FlowVPN application.
+2. Click **Connect** to start the VPN connection. 
+3. Use the drop-down menu to select your preferred connection country. 
+4. Once connected, your Windows system will display a notification indicating that FlowVPN is successfully connected.
+
+![VPN Connection](./image/flowvpn/6.PNG)
+
+With FlowVPN successfully installed and running, you can now enjoy a secure and private internet connection while accessing content from around the world!
 
 
 ## What Can You Do with a VPN in India?
