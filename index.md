@@ -99,7 +99,7 @@ Below is the aggregated speed performance chart, showing the average download an
 ---
 
 
-The latest update：`2024-12-25`
+The latest update： January 02, 2025
 
 
 > ## summary
