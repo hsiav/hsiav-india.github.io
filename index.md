@@ -105,7 +105,7 @@ The latest update：`2024-12-25`
 > ## 本文内容导航
 > ### 1. [What is a VPN?](#what-is-a-vpn)
 > ### 2. [国产VPN推荐功能总结2024年12月25号测试](#国产VPN推荐功能总结2024年12月25号测试)
-> #### 2.1 [StrongVPN推荐](#StrongVPN推荐)
+> #### 2.1 [Features of StrongVPN](#features-of-strongvpn)
 > #### 2.2 [Expressvpn-买12个月送三个月](#Expressvpn-买12个月送三个月)
 > #### 2.3 [SurfsharkVPN-冲浪鲨-推荐](#SurfsharkVPN-冲浪鲨-推荐)
 > #### 2.4 [FlowVPN-推荐-免费用两天](#FlowVPN-推荐-免费用两天)
@@ -142,7 +142,7 @@ The latest update：`2024-12-25`
 > #### 18.3 [VPN服务在世界各大洲连接Netflix的成功率](#VPN服务在世界各大洲连接Netflix的成功率)
 > #### 18.4 [VPN服务在世界各大洲连接Disney+的成功率](#VPN服务在世界各大洲连接Disney+的成功率)
 > ### 19. [中国特殊时期的VPN连接问题-敏感时期](#中国特殊时期的VPN连接问题-敏感时期)
-> ### 20. [Linux-VPN安装教学](#Linux-VPN安装教学)
+> ### 20. [Linux VPN Installation Guide](#linux-vpn-installation-guide)
 > ### 21. [哪些应用和服务可能会阻止VPN连接](#哪些应用和服务可能会阻止VPN连接)
 > ### 22. [针对特定应用-例如BitTorrent-的VPN设置和建议](#针对特定应用-例如BitTorrent-的VPN设置和建议)
 > ### 23. [适合AppleTV的VPN](#适合AppleTV的VPN)
