@@ -103,7 +103,7 @@ The latest update：`2024-12-25`
 
 
 > ## 本文内容导航
-> ### 1. [科学上网基本知识](#科学上网基本知识)
+> ### 1. [What is a VPN?](#What is a VPN?)
 > ### 2. [国产VPN推荐功能总结2024年12月25号测试](#国产VPN推荐功能总结2024年12月25号测试)
 > #### 2.1 [StrongVPN推荐](#StrongVPN推荐)
 > #### 2.2 [Expressvpn-买12个月送三个月](#Expressvpn-买12个月送三个月)
