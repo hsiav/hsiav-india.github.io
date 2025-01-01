@@ -1,4 +1,4 @@
-# Best VPNs for India - Comprehensive Recommendations (Updated: December 25, 2024)
+# Best VPNs for India - Comprehensive Recommendations (Updated: January 02, 2025)
 
 ## If you enjoy this guide, consider starring this repository and sharing it with others to help spread awareness about internet privacy and freedom. Let's work together for a more secure and open web!
 
