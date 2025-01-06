@@ -8,7 +8,7 @@ Here’s a summary of the top VPN options for Indian users, including the best s
 
 | Recommended VPN | Best Plan (Duration) | Monthly Price (USD) | Total Cost | Key Features | Local Payment Options (UPI, Paytm) |
 | --------------- | -------------------- | ------------------- | ----------- | ------------ | ------------------------------- |
-| <a rel="nofollow noopener" href="hhttps://reliablevpn.net/?tr_aid=60d96b5810e50&chan=w_in_github&data1=india&data2=title" target="_blank">StrongVPN</a> | 1-Year Plan | 4.5 | 54 | Best Value for Money | Supported |
+| <a rel="nofollow noopener" href="https://reliablevpn.net/?tr_aid=60d96b5810e50&chan=w_in_github&data1=india&data2=title" target="_blank">StrongVPN</a> | 1-Year Plan | 4.5 | 54 | Best Value for Money | Supported |
 | <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=en&special=FREETRIAL&r=35-890485.w_github">FlowVPN (2-Day Free Trial)</a> | 1-Year Plan | $4.17 | 50 | Free 2-Day Trial | Supported |
 | <a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN (12 Months + 3 Free)</a> | 1-Year Plan (15 Months Total) | 5.33 | 80 | Top Performance and Stability | Not Supported |
 | <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=india">Surfshark</a> | 2-Year Plan | $2.30 | 55 | Unlimited Devices | Not Supported |
