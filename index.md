@@ -4,6 +4,9 @@
 
 ### Quick Overview: Pricing and Performance of the Best VPNs for India
 
+
+<img src="./image/vpn_intro_pic.jpg" alt="VPN Speed Test India" width="1000"/>
+
 Here’s a summary of the top VPN options for Indian users, including the best subscription plans, pricing, and standout features:
 
 | Recommended VPN | Best Plan (Duration) | Monthly Price (USD) | Total Cost | Key Features | Local Payment Options (UPI, Paytm) |
